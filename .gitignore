@@ -17,3 +17,6 @@
 .credentials.json
 
 use_cases
+__pycache__
+.ipynb_checkpoints/
+traces/
