@@ -17,3 +17,5 @@
 .credentials.json
 
 use_cases
+traces
+*.nb.log
